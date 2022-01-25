@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Олег Шкарупа](https://up.htmlacademy.ru/htmlcss/33/user/1982241).
-* Наставник: `Неизвестно`.
+* Наставник: [тимур Хамитов](https://htmlacademy.ru/profile/ricomen).
 
 ---
 
